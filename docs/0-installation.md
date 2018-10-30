@@ -1,0 +1,18 @@
+# Installation
+
+The following commands where executed sequencially in a _fresh_ Ubuntu installation with no previous ROS installations, and no problems detected or showed.
+
+Commands list:
+
+```bash
+$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+$ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
+$ sudo apt update
+$ sudo apt install ros-melodic-desktop-full
+$ sudo rosdep init
+$ rosdep update
+$ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+$ source ~/.bashrc
+$ sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+
+```
