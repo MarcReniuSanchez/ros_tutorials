@@ -25,3 +25,9 @@ Understanding the `ros<pack find | cd | ls> [package name]` commands.
 Followed tutorial for [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage).
 
 Created a new `beginner_tutorial` package. Filling `/src/beginner_tutorials/package.xml` with some custom information and removed all commented lines.
+
+## 4. Building Packages
+
+Followed tutorial for [Building Packages](http://wiki.ros.org/ROS/Tutorials/BuildingPackages).
+
+Readed and be sure that `/build`
