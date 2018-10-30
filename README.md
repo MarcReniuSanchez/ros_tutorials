@@ -37,3 +37,9 @@ Readed and be sure that `/build` and `/devel` folder were created locally. `.git
 Followed tutorial for [Understanding ROS Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes).
 
 ROS commands executions listed in [Understanding ROS Nodes](https://github.com/MarcReniuSanchez/ros_tutorials/tree/master/docs/5-ros-nodes.md) docs.
+
+## 6. Understanding ROS Topics
+
+Followed tutorial for [Understanding ROS Topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics).
+
+Playing with `turtlesim`, and using `rqt_graph`, `rostopic`, `rosmsg`, and `rqt_plot` to see how they work
