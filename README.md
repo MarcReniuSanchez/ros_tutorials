@@ -31,3 +31,9 @@ Created a new `beginner_tutorial` package. Filling `/src/beginner_tutorials/pack
 Followed tutorial for [Building Packages](http://wiki.ros.org/ROS/Tutorials/BuildingPackages).
 
 Readed and be sure that `/build` and `/devel` folder were created locally. `.gitignore` file is configured to ignore this folder to be pushed up to the repository.
+
+## 5. Understanding ROS Nodes
+
+Followed tutorial for [Understanding ROS Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes).
+
+ROS commands executions listed in [Understanding ROS Nodes](https://github.com/MarcReniuSanchez/ros_tutorials/tree/master/docs/5-ros-nodes.md) docs.
