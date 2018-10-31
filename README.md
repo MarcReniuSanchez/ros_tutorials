@@ -49,3 +49,18 @@ Playing with `turtlesim`, and using `rqt_graph`, `rostopic`, `rosmsg`, and `rqt_
 Followed tutorial for [Understanding ROS Services and Parameters](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams).
 
 Using `rosservice` and `rosparams` to manipulate and understant services and parameters in ROS.
+
+## 8. Using rqt_console and roslaunch
+
+Only readed
+
+## 9. Using rosed to edit files in ROS
+
+Only readed
+
+## 10. Creating a ROS msg and srv
+
+Followed tutorial for [Creating a ROS msg and srv](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv).
+
+Created `msg/Num.msg` a `srv/AddTwoInts.srv` files as explained in tutorials, compiled and installed.
+Only issue found was creating the message file outside `msg` folder by mistake.
