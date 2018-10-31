@@ -42,4 +42,10 @@ ROS commands executions listed in [Understanding ROS Nodes](https://github.com/M
 
 Followed tutorial for [Understanding ROS Topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics).
 
-Playing with `turtlesim`, and using `rqt_graph`, `rostopic`, `rosmsg`, and `rqt_plot` to see how they work
+Playing with `turtlesim`, and using `rqt_graph`, `rostopic`, `rosmsg`, and `rqt_plot` to see how they work.
+
+## 7. Understanding ROS Services and Parameters
+
+Followed tutorial for [Understanding ROS Services and Parameters](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams).
+
+Using `rosservice` and `rosparams` to manipulate and understant services and parameters in ROS.
