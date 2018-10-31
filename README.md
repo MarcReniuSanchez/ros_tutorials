@@ -64,3 +64,9 @@ Followed tutorial for [Creating a ROS msg and srv](http://wiki.ros.org/ROS/Tutor
 
 Created `msg/Num.msg` a `srv/AddTwoInts.srv` files as explained in tutorials, compiled and installed.
 Only issue found was creating the message file outside `msg` folder by mistake.
+
+## 11. Writing a Simple Publisher and Subscriber (C++)
+
+Followed tutorial for [Writing a Simple Publisher and Subscriber (C++)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29).
+
+Adding a _talker_ and a _listener_ from the tutorials. I'm going to suppose there are no errors in code execution, because in compilation there was none.
