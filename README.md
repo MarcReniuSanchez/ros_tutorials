@@ -69,4 +69,10 @@ Only issue found was creating the message file outside `msg` folder by mistake.
 
 Followed tutorial for [Writing a Simple Publisher and Subscriber (C++)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29).
 
-Adding a _talker_ and a _listener_ from the tutorials. I'm going to suppose there are no errors in code execution, because in compilation there was none.
+Adding a _talker_ and a _listener_ in C++ from the tutorials. I'm going to suppose there are no errors in code execution, because in compilation there was none.
+
+## 12. Writing a Simple Publisher and Subscriber (Python)
+
+Followed tutorial for [Writing a Simple Publisher and Subscriber (Python)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29).
+
+Adding a _talker_ and a _listener_ in Python from the tutorials. No changes in `CMakeLists.txt`, no wonder why.
